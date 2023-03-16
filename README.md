@@ -3,7 +3,7 @@
   ![Bruno (1)](https://i.pinimg.com/originals/25/f4/ea/25f4ea8a563d0393de4abb6e24f9b63b.gif)
      </div>   
    <div>
-    <h1 align="center"> Welcome my name is Manuel
+    <h1 align="center"> Welcome my name is Roxcon or Manuel
     <h3 align="center"> A Fullstack WebDeveloper with an interest in Videogames </h3>
         </div>
 
