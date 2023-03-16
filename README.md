@@ -45,7 +45,7 @@ const Roxcon1 = {
     
 
 <p align="center">
-    <h3 align="left">Contact me! : ) <a href="https://www.linkedin.com/in/manuel-albarracín-b16437268/" target="blank"></a> </h3>
+    <h3 align="left">Contact me! : ) <a href="https://www.linkedin.com/in/manuel-albarracín-b16437268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BRuno BuGLioni" height="30" width="40" /></a> </h3>
 </p>
 
  <h3 align="left">Languages and Tools! ..🔧 💻 .. </h3>
