@@ -1,6 +1,6 @@
 <div align="center">
             
-  ![Manu (1)][(https://i.pinimg.com/originals/25/f4/ea/25f4ea8a563d0393de4abb6e24f9b63b.gif)](https://images-ext-1.discordapp.net/external/19l5flstZmkgnlKKa8yWncEdem6mrf99MeXj0lhKc7w/https/i.pinimg.com/originals/2a/de/4f/2ade4ffd923c28ac14b27e2e99e628d0.png?width=1440&height=360)
+  ![Manu (1)[https://i.pinimg.com/originals/2a/de/4f/2ade4ffd923c28ac14b27e2e99e628d0.png]
      </div>   
    <div>
     <h1 align="center"> Welcome my name is Roxcon or Manuel
