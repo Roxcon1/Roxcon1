@@ -9,9 +9,9 @@
 
 <h2>About me</h2>
 <p>
-  Im very interested generally in the tech field, specifically in both the Game Development and Web Development, I started coding last year due to finaly being free of my duties as an student, and i focus mostly on JavaScript, CSS, HTML, React.js, and Redux.
+  Im very interested generally in the tech field, specifically in both the Game Development and Web Development, I started coding last year due to finaly being free of my duties as an student, and i focus mostly on JavaScript, CSS, HTML, React.js, PostgresSQL, Sequelize, Express.js and Redux.
 
-I also am very experienced in the production of Game Assets with 5 years of experience, and aiming to be better every day, with my plan currently being to release my first game
+I also am very experienced in the production of Game Assets with 5 years of experience, and aiming to be better every day, with my plan currently being to release my first game.
   <br/>
   <h4>Likes</h4>
   <p>
