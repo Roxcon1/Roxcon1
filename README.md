@@ -12,18 +12,17 @@
   Im very interested generally in the tech field, specifically in both the Game Development and Web Development, I started coding last year due to finaly being free of my duties as an student, and i focus mostly on JavaScript, CSS, HTML, React.js, and Redux.
 
 I also am very experienced in the production of Game Assets with 5 years of experience, and aiming to be better every day, with my plan currently being to release my first game
-
   <br/>
   <h4>Likes</h4>
   <p>
     -Exotic Foods <br/>
     -Cold Climates <br/>
-    -Meeting new people
+    -Meeting new people <br/>
   </p>
   <h4>Hobbies</h4>
   <p>
     -Pixelart <br/>
-    -Speedrunning Games
+    -Speedrunning Games <br/>
   </p>
 </p>
 <br/>
